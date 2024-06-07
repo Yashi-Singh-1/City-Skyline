@@ -28,9 +28,9 @@ City Skyline is a simple web project created using HTML and CSS. It renders a ba
 <ul>
 <li>    Clone this repository using Git: </li>
 
-    git clone https://github.com/your-username/city-skyline.git <br>
-
-    Alternatively, download the ZIP file from the GitHub repository and extract it to your project directory.
+    git clone https://github.com/your-username/city-skyline.git 
+    
+Alternatively, download the ZIP file from the GitHub repository and extract it to your project directory.
 
 ## Usage
 
@@ -52,8 +52,9 @@ City Skyline offers easy customization options through CSS variables. You can ad
 
 - --building-color1, --building-color2, --building-color3, --building-color4: Colors of the buildings.
 - --window-color1, --window-color2, --window-color3, --window-color4: Colors of the windows.
+  <br />
 
-For example, to change the color of the buildings, you can override the --building-color1 variable like this:
+For example, to change the color of the buildings, you can override the --building-color1 variable like this: <br>
 
 :root {
   --building-color1: #ff0000; /* Red */
