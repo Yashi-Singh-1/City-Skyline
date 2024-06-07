@@ -31,6 +31,7 @@ City Skyline is a simple web project created using HTML and CSS. It renders a ba
     git clone https://github.com/your-username/city-skyline.git 
     
 Alternatively, download the ZIP file from the GitHub repository and extract it to your project directory.
+</ul>
 
 ## Usage
 
