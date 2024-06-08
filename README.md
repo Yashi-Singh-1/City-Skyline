@@ -37,9 +37,7 @@ Alternatively, download the ZIP file from the GitHub repository and extract it t
 
 To use City Skyline in your project, follow these steps:
 
-1. Include the styles.css file in your HTML:
-
-   <link href="styles.css" rel="stylesheet" />
+1. Include the styles.css file in your HTML.
 
 2. Copy the HTML structure from index.html into your own HTML file.
 
